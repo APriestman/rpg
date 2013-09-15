@@ -1,0 +1,2 @@
+TortoiseGit - http://code.google.com/p/tortoisegit/
+mSysGit - http://msysgit.github.io/
