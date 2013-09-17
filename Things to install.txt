@@ -2,3 +2,4 @@ TortoiseGit - http://code.google.com/p/tortoisegit/
 mSysGit - http://msysgit.github.io/
 
 Visual Studio C++ 2010 Express - http://www.microsoft.com/visualstudio/eng/downloads
+(Might need to upgrade, but might as well start with the free version)
